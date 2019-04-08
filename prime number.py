@@ -1,4 +1,4 @@
-#代码不能写中文
+#代码文件名称不能写中文
 #import math要放在最上面，不然成为ugly code style
 #int(math.sqrt(x)))变成整数才能算
 #大牛链接：https://program-think.blogspot.com/2011/12/prime-algorithm-1.html?m=1
